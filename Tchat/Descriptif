@@ -1,0 +1,15 @@
+
+
+J'ai ajouté une fonction est_client qui permet seulement aux 
+gens connectés d'éffectuer des commandes ( a part login ).
+
+J'ai implémenté les fonctions :
+- login
+- who
+- quit
+- kick
+
+La fonction To ne fonctionne pas encore correctement.
+
+( Ps : J'ai essayé d'indenter mon code au mieux, car je n'ai pas accés à l'annonce Conventions de code sur
+Didel, l'accès m'est interdit ).
